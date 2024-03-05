@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ad553a9-c5a8-4d94-a41e-e26a31bea871" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/DataCreation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ASL_DataCollection - Copy/DataCreation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above1/0043049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043119.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043120.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043125.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043126.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043127.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043131.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043132.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043133.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043134.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043135.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043136.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043137.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043139.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043140.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043141.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043142.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043143.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043144.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043145.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043146.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043147.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043148.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043149.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043151.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043153.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043155.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043156.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043157.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043158.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043159.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043160.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043161.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043162.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043163.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043164.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043165.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043166.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043167.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043168.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043169.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043170.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043171.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043172.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043173.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043174.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043175.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043176.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043177.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043178.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043179.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043180.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043181.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043182.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043183.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043184.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043185.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043186.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043187.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043188.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043189.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043190.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043191.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043192.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043193.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043194.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043195.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043196.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043197.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043198.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above2/0043199.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043314.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043315.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043316.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043317.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043318.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043319.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043320.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043321.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043322.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043323.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043324.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043325.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043326.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043327.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043328.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043329.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043330.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043331.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043332.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043334.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043335.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043336.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043337.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043338.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043339.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043340.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043341.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043342.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043343.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043344.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043345.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043346.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043347.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043348.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043349.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043350.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043351.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043352.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043353.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043354.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043355.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043356.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043357.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043358.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043359.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043360.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043361.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043362.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043363.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043364.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043365.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043366.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043367.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043368.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/above3/0043369.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370119.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370120.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370125.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370126.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370127.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370131.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370132.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370133.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370134.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370135.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370136.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370137.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370139.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370140.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370141.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370142.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370143.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370144.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370145.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370146.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370147.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370148.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370149.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370151.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370153.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370155.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370156.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370157.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370158.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370159.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370160.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370161.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370162.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370163.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370164.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370165.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370166.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370167.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370168.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370169.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370170.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370171.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370172.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370173.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370174.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370175.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370176.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370177.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370178.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370179.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370180.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370181.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370182.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASL_DataCollection - Copy/[TEST] Collected/fruit1/2370183.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2dHbo5vtwt0ytiiIC6OCKjg1xJJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
