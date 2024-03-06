@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ad553a9-c5a8-4d94-a41e-e26a31bea871" name="Changes" comment="- Deleted [TEST] Collected images&#10;- Prepared code to create new directories for storing .npy files upon creation&#10;- Fixed a bug where Reaper could teleport out of bounds" />
+    <list default="true" id="7ad553a9-c5a8-4d94-a41e-e26a31bea871" name="Changes" comment="- Deleted [TEST] Collected images&#10;- Prepared code to create new directories for storing .npy files upon creation&#10;- Fixed a bug where Reaper could teleport out of bounds">
+      <change beforePath="$PROJECT_DIR$/.idea/ASL_Data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ASL_Data.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataCreation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataCreation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numpy_Files/above/above1.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numpy_Files/above/above2.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numpy_Files/above/above3.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numpy_Files/fruit/fruit1.npy" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +39,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-65c742565061-c6172f9078bd-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-233.14475.37" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- Deleted [TEST] Collected images&#10;- Prepared code to create new directories for storing .npy files upon creation&#10;- Fixed a bug where Reaper could teleport out of bounds" />
