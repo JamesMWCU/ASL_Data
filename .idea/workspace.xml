@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ad553a9-c5a8-4d94-a41e-e26a31bea871" name="Changes" comment="- Deleted [TEST] Collected images&#10;- Prepared code to create new directories for storing .npy files upon creation&#10;- Fixed a bug where Reaper could teleport out of bounds">
+    <list default="true" id="7ad553a9-c5a8-4d94-a41e-e26a31bea871" name="Changes" comment="- Created numpy files of sorted words using pre-cut frame data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataCreation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataCreation.ipynb" afterDir="false" />
     </list>
@@ -43,6 +43,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- Deleted [TEST] Collected images&#10;- Prepared code to create new directories for storing .npy files upon creation&#10;- Fixed a bug where Reaper could teleport out of bounds" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Deleted [TEST] Collected images&#10;- Prepared code to create new directories for storing .npy files upon creation&#10;- Fixed a bug where Reaper could teleport out of bounds" />
+    <MESSAGE value="- Created numpy files of sorted words using pre-cut frame data" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Created numpy files of sorted words using pre-cut frame data" />
   </component>
 </project>
